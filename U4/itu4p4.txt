@@ -1,0 +1,6 @@
+Letter - Data Type 
+
+s - String 
+i - Integer
+d - Double (Decimal)
+b - Blob (Binary Data)
